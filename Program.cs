@@ -15,7 +15,7 @@ class Program
             Console.WriteLine(" here you can either get a complete image analys for any picture ");
             Console.WriteLine("  or get a face expression classification from any human face ");
             Console.WriteLine("");
-            Console.WriteLine("(1) - Analys any image URL");
+            Console.WriteLine("(1) - Analys any image");
             Console.WriteLine("(2) - Face expression classification (either from image file or URL");
             Console.WriteLine("(8) - Exit to menu");
             menuChoice = GetInputNumber();
